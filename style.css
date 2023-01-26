@@ -1,18 +1,11 @@
 body {
     font-family: "Oswald";
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .truckright-quickapp-container {
-    background: royalblue;
-    max-width: 520px;
-    margin: auto;
-    padding: 20px;
-}
-
-.kylestyle {
-    background: royalblue;
-    max-width: 520px;
+/*     background: royalblue; */
+    max-width: 800px;
     margin: auto;
     padding: 20px;
 }
