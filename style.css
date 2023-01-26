@@ -6,8 +6,7 @@ html {
 }
 
 .truckright-quickapp-container {
-    /* background: royalblue; */
-    max-width: 800px;
+    background: transparent;
     margin: auto;
     padding: 20px;
 }
