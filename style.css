@@ -1,10 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+
 html {
-    font-family: "Oswald";
+    font-family: Oswald;
     font-size: 20px;
 }
 
 .truckright-quickapp-container {
-/*     background: royalblue; */
+    /* background: royalblue; */
     max-width: 800px;
     margin: auto;
     padding: 20px;
